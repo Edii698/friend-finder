@@ -8,7 +8,7 @@ Web app design to match up with a new best friend!
 ![header img](readme-img.png)
 
 ## Heroku Demo
-View demo here: [Friend Finder](https://murmuring-meadow-77520.herokuapp.com/)
+View demo here: [Friend Finder](https://glacial-ravine-44304.herokuapp.com/)
 
 ## Tech Used
 -HTML, CSS, Bootstrap, Javascript, JQuery, NodeJS, ExpressJS.
